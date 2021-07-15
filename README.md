@@ -1,6 +1,17 @@
 # LS-DYNA-Resources
 
-### Articles
+## Websites
+* [Papers from LS-DYNA user conferences](https://www.dynalook.com/)
+* 
+
+## Articles
 
 
-### Videos
+## Videos
+
+
+## Books
+
+
+## Other Resources
+
